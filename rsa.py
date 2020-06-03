@@ -1,4 +1,4 @@
-#ID   :H20191030124
+
 #Name :Geetika Joshi
  
 def modinv(a, m):
